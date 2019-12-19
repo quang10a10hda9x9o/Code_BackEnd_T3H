@@ -52,6 +52,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code_BackEnd_T3H\src\ExcerciseTest" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ExcerciseTest" />
       <recent name="ExcerciseCure" />
